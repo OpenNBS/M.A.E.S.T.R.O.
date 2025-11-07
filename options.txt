@@ -11,7 +11,6 @@ operatorItemsTab:true
 realmsNotifications:false
 darkMojangStudiosBackground:true
 hideSplashTexts:true
-resourcePacks:["vanilla","fabric","file/M.A.E.S.T.R.O.","file/Silent_Discs_Plus_v1.0.zip"]
 pauseOnLostFocus:false
 tutorialStep:none
 skipMultiplayerWarning:true
