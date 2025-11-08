@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms/luckperms-h2-v2.mv.db"
-hash = "8a5da9497b99c3570c75c9732ee5c4e4d3cf919e208f35b6eb0387962926268f"
+hash = "a35b7658b32f8271afddc3c2e5c035d9560ca5f01da0480667cc089e7b8c45d0"
 
 [[files]]
 file = "mods/minimotd.pw.toml"
