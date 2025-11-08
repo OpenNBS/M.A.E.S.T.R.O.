@@ -97,6 +97,18 @@ file = "config/worldedit/schematics/Daitsuki - Aura.schem"
 hash = "96ce31087ff529513e0d1ffb7bd2dfbaca5be9c1d9db83e27fa5f30af02481bb"
 
 [[files]]
+file = "config/worldedit/schematics/Demo - Turkish March.schem"
+hash = "63f550826ae78dab95f8c794cf8c9b582833b3f7470b45d5a24752e427f4cb8a"
+
+[[files]]
+file = "config/worldedit/schematics/Demo - all-x2.schem"
+hash = "df5e93d878f0e66e1327f9cd28bcc8d339b61f354b3e28ec6f4bc3c390ebc498"
+
+[[files]]
+file = "config/worldedit/schematics/Demo - mega_fast.schem"
+hash = "5a56423366501deab8f82959a1379dfba1ec85557526f1b59eba95bf70c457ab"
+
+[[files]]
 file = "config/worldedit/schematics/Dino - never gonna give you up.schem"
 hash = "557dc2ff6d621ad21048b4389469265b79b5279e634303335c809454ac351fa2"
 
@@ -288,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms/luckperms-h2-v2.mv.db"
-hash = "a35b7658b32f8271afddc3c2e5c035d9560ca5f01da0480667cc089e7b8c45d0"
+hash = "93cabf69541e3d7315154603054e54affe7192f73236a3db2b26544cb2babb4c"
 
 [[files]]
 file = "mods/minimotd.pw.toml"
@@ -515,43 +527,43 @@ hash = "160dba72011c7d31003040ff18c258455e616412936bb6d77daf8879a1b54a69"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.-1.-1.mca"
-hash = "893da29f11ea052e1a359200b2738e5d3af9ae6eaaad173186213a504e7869e4"
+hash = "41a8da5d8e2d21a7f30316efb7de044fa0a33289549296c00593b34173315e89"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.-1.0.mca"
-hash = "cfd7900dcd8bd2ca12d853c00d69edef15e8063c3473867285aeac1506d2f0c3"
+hash = "d093cabde3422cf07331a4c4e492cd2fdf591825edd5a5b07f1fb616846aac7a"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.0.-1.mca"
-hash = "7bffb369287bcb67e8806ce95e57fabb1978539636511ac29e9301fea1145610"
+hash = "17f0e7d8891301611ad7101db46232250c1df5d213ab46d45915207bd113cfa8"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.0.0.mca"
-hash = "4c03c67b67759bd15633ba55161f5014ad949ec6c58ca93453104f80fe356bb9"
+hash = "ee969761237426a86b319cbceba309f6fbb9781bc084bb685c14d36dca0864ce"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./icon.png"
-hash = "5f98c835a2f7599dc6264a241112b507d06fab3bd5a896e24d8ca1973130199a"
+hash = "e4f06ac40ff4a311b88bfed9ff1025aff643c830a1b89776367e85dca253e3d7"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./level.dat"
-hash = "e088024b5a862fb2f76b651890ace7ef0ee90e0194a5203ff3074e2ef05c44e7"
+hash = "5344adc9c184355c9eb38a812091732ba2a1fd26713c8ffdc3cb18298d93f1b1"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.-1.-1.mca"
-hash = "654d55bff2fc69ac74b3e4ff3fe73066766c163b0ef2c259656b8971ec3729ea"
+hash = "5203fd1e8040b8ca4629f0907e18fcdd47183626cc2610298c9379dd91dfd07e"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.-1.0.mca"
-hash = "987f7e0fa084b46fe3bb8bab2c8abd5c66aa1e6cb2cefab3e6462f5765930605"
+hash = "9ebc8cd476eb13fb1336a6322f3cdcdb01944763fa0916bc24e18fce41a5488b"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.0.-1.mca"
-hash = "be03b3ce801fa785f5915d17eeb38ec4444ad7a000a8c36c830ce46c5dc9cc38"
+hash = "3902e110b5cb8dd998e42953c86ec2220366fe83d034e171308e39e00384b0ed"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.0.0.mca"
-hash = "74fce497b4d5f107be9837176b4605f92ecb8379431ed82fd5ee9e149ee5c593"
+hash = "c5f037828803db42901b35665a08924e696b5b98d475d4981505b5d39ae11525"
 
 [[files]]
 file = "server-icon.png"
