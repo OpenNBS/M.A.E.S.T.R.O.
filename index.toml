@@ -181,6 +181,10 @@ file = "config/worldedit/schematics/control467 - in pieces.schem"
 hash = "f2efd1cc7d786290b0670af058262ce339d8642701a6866fc3a45a4e06052f73"
 
 [[files]]
+file = "config/worldedit/schematics/credits.md"
+hash = "56d2c7182942d5e50dae6df02880d9b0b29ae5f1e61f7dbff04c9657e46866d6"
+
+[[files]]
 file = "config/worldedit/schematics/encode42 - The Third Sanctuary.schem"
 hash = "e109fd06e8c67dfc3a21c0c731deb0bed7fe827aa5791c1b27375227a65154a4"
 
