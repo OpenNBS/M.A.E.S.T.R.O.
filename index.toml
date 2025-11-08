@@ -531,43 +531,43 @@ hash = "160dba72011c7d31003040ff18c258455e616412936bb6d77daf8879a1b54a69"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.-1.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "41a8da5d8e2d21a7f30316efb7de044fa0a33289549296c00593b34173315e89"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.-1.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "d093cabde3422cf07331a4c4e492cd2fdf591825edd5a5b07f1fb616846aac7a"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.0.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "17f0e7d8891301611ad7101db46232250c1df5d213ab46d45915207bd113cfa8"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./entities/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "ee969761237426a86b319cbceba309f6fbb9781bc084bb685c14d36dca0864ce"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./icon.png"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e4f06ac40ff4a311b88bfed9ff1025aff643c830a1b89776367e85dca253e3d7"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./level.dat"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "5344adc9c184355c9eb38a812091732ba2a1fd26713c8ffdc3cb18298d93f1b1"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.-1.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "5203fd1e8040b8ca4629f0907e18fcdd47183626cc2610298c9379dd91dfd07e"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.-1.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "9ebc8cd476eb13fb1336a6322f3cdcdb01944763fa0916bc24e18fce41a5488b"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.0.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "3902e110b5cb8dd998e42953c86ec2220366fe83d034e171308e39e00384b0ed"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./region/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "c5f037828803db42901b35665a08924e696b5b98d475d4981505b5d39ae11525"
 
 [[files]]
 file = "server-icon.png"
