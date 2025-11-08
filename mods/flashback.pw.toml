@@ -1,0 +1,13 @@
+name = "Flashback"
+filename = "Flashback-0.38.2-for-MC1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4das1Fjq/versions/aYbDLPnW/Flashback-0.38.2-for-MC1.21.8.jar"
+hash-format = "sha512"
+hash = "5f5cb95dd640871aeaa7b3e42ea0abf18d4650bd2508dfdfb9188cb9d760b61c797f459808328e11d7afdb40a1914a955d085afd1f0ad885b1cb3fd0cd9d5902"
+
+[update]
+[update.modrinth]
+mod-id = "4das1Fjq"
+version = "aYbDLPnW"
